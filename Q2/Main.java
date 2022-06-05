@@ -6,6 +6,6 @@ public class Main {
 		
 		Mobile m = new Mobile();
 		
-		m.searchOutdatedModel("Realme", "note9");
+		m.searchOutdatedModel("Realme", "note4");
 	}
 }
